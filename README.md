@@ -35,7 +35,7 @@ I'm **arch** a.k.a **Sylvain**, a guy specialized in __web__ and __application__
 <h3>:tada: Activities :</h2>
 
 <div>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=retouching&show_icons=true&hide_border=true">
+  <img width="59%" src="https://github-readme-stats.vercel.app/api?username=retouching&show_icons=true&hide_border=true">
   <img width="40%" src="https://spotify-recently-played-readme.vercel.app/api?user=emam77f8njo59bukjawv1iohf">
 </div>
 
