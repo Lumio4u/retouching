@@ -1,5 +1,6 @@
 <p align="center">
   <!--img src="https://cdn.discordapp.com/attachments/821641096965652511/861759294709825536/ezgif-2-304409c0b993.gif"><br-->
+  <img src="https://discord.c99.nl/widget/theme-1/534413379947986988.png"><br>
   <img src="https://cdn.discordapp.com/attachments/821641096965652511/861758601897967636/standard2.gif">
 </p>
 
