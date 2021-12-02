@@ -1,5 +1,5 @@
-<h1><img src="https://files.catbox.moe/updxvf.gif" width="30"> Hello here !</h1>
-<img src="https://files.catbox.moe/ybzl8e.gif" width="250" align="right">
+<h1><img src="./assets/neko.gif" width="30"> Hello here !</h1>
+<img src="./assets/profile.gif" width="250" align="right">
 
 ```js
 const arch = {
@@ -21,7 +21,7 @@ console.log(arch)
   <a href="https://anilist.co/user/arch/"><img src="https://img.shields.io/badge/Follow-11161d?style=flat-square&logo=anilist&logoColor=white"></a>
 </div>
 
-<h1><img src="https://cdn.discordapp.com/emojis/589188451304472586.gif" width="30"> Skills</h1>
+<h1><img src="./assets/saber.gif" width="30"> Skills</h1>
 
 ```php
 <?php
@@ -47,10 +47,16 @@ class Frameworks {
 }
 ```
 
-<h1><img src="https://cdn.discordapp.com/emojis/783831649741438996.gif" width="30"> Activity</h1>
+<h1><img src="./assets/gura.gif" width="30"> Activity</h1>
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=retouching&show_icons=true&hide_border=true">
+   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retouching&layout=compact">
+  <img width="30%" src="https://spotify-recently-played-readme.vercel.app/api?user=emam77f8njo59bukjawv1iohf">
+</p>
