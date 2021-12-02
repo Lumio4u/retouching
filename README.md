@@ -1,44 +1,53 @@
-<p align="center">
-  <!--img src="https://cdn.discordapp.com/attachments/821641096965652511/861759294709825536/ezgif-2-304409c0b993.gif"><br-->
-  <img src="https://discord.c99.nl/widget/theme-1/534413379947986988.png"><br>
-  <img src="https://cdn.discordapp.com/attachments/821641096965652511/861758601897967636/standard2.gif">
-</p>
+<h1><img src="https://files.catbox.moe/updxvf.gif" width="30"> Hello here !</h1>
+<img src="https://files.catbox.moe/ybzl8e.gif" width="250" align="right">
 
-<h3>:busts_in_silhouette: About me :</h2>
+```js
+const arch = {
+  name: 'Sylvain',
+  age: new Date().getFullYear() - 2001,
+  usage: 'Web and Software developper',
+  editors: [
+    'Visual Studio Code', 'IntelliJ IDEA'
+  ]
+}
 
-I'm **arch** a.k.a **Sylvain**, a guy specialized in __web__ and __application__ development. PHP and C++ lover, I'm in constant search of news in tech. In my spare time, I watch animes, *soooo much lol* and I play video games (FF VIII :heart:) between two parties with my friends !
+console.log(arch)
+```
 
-<h3>:sparkles: Technlogies :</h2>
-
-<div>
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-  
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-  
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
-  
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png">
-
-
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png">
-
-  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png">
-  <img height="50" src="https://static.spigotmc.org/img/spigot.png">
+<div align="center">
+  <a href="https://github.com/retouching"><img src="https://img.shields.io/github/followers/retouching?color=white&label=Follow&logo=github&style=flat-square"></a>
+  <a href="https://twitter.com/0x394"><img src="https://img.shields.io/twitter/follow/0x394?color=%231DA1F2&label=Follow&logo=twitter&style=flat-square"></a>
+  <a href="https://t.me/xrch1111"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
+  <a href="https://anilist.co/user/arch/"><img src="https://img.shields.io/badge/Follow-11161d?style=flat-square&logo=anilist&logoColor=white"></a>
 </div>
 
-<h3>:tada: Activities :</h2>
+<h1><img src="https://cdn.discordapp.com/emojis/589188451304472586.gif" width="30"> Skills</h1>
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=retouching&show_icons=true&hide_border=true">
-   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retouching&layout=compact">
-  <img width="30%" src="https://spotify-recently-played-readme.vercel.app/api?user=emam77f8njo59bukjawv1iohf">
-</p>
+```php
+<?php
 
-<h3>:calling: Contact me : <b><a href="https://solo.to/unix">https://solo.to/unix</a></b></h2>
+$languages = [
+  "javascript", "html/css", "python", "php", "java", "c++"
+];
+
+var_dump($languages);
+```
+
+```java
+class Frameworks {
+  
+  public static void main(String[] args) {
+    System.out.println("Javascript: Node, Nuxt.Js, Discord.Js, Express");
+    System.out.println("HTML/CSS: Bulma.io, Tailwind, SCSS");
+    System.out.println("Python: Flask, Discord.py");
+    System.out.println("PHP: Symfony, Doctrine");
+    System.out.println("Java: Spigot");
+    System.out.println("C++: QT");
+  }
+}
+```
+
+<h1><img src="https://cdn.discordapp.com/emojis/783831649741438996.gif" width="30"> Activity</h1>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
