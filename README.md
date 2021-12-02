@@ -41,7 +41,7 @@ class Frameworks {
     System.out.println("HTML/CSS: Bulma.io, Tailwind, SCSS");
     System.out.println("Python: Flask, Discord.py");
     System.out.println("PHP: Symfony, Doctrine");
-    System.out.println("Java: Spigot");
+    System.out.println("Java: Spigot, Spring Boot");
     System.out.println("C++: QT");
   }
 }
