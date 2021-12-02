@@ -50,6 +50,9 @@ class Frameworks {
 <h1><img src="./assets/gura.gif" width="30"> Activity</h1>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <p align="center">
