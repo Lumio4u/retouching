@@ -34,17 +34,36 @@ var_dump($languages);
 ```
 
 ```java
-class Frameworks {
-  
+class KnowingUsage {
   public static void main(String[] args) {
-    System.out.println("Javascript: Node, Nuxt.Js, Discord.Js, Express");
+    System.out.println("Javascript: Node, Nuxt.Js, Discord.Js, Express, Mongoose, Sequelize");
     System.out.println("HTML/CSS: Bulma.io, Tailwind, SCSS");
-    System.out.println("Python: Flask, Discord.py");
+    System.out.println("Python: Flask, Discord.py, Peewee, SQLAlchemy, pymongo");
     System.out.println("PHP: Symfony, Doctrine");
     System.out.println("Java: Spigot, Spring Boot");
     System.out.println("C++: QT");
   }
 }
+```
+
+```py
+def main():
+  tools = [
+    'docker', 'MongoDB Compass', 'PGAdmin'
+  ]
+  
+  db = [
+    'MongoDB', 'MySQL', 'MariaDB', 'RethinkDB', 'PostgreSQL'
+  ]
+  
+  os = [
+    'Linux', 'Windows'
+  ]
+  
+  print(tools, db, os)
+
+if __name__ == '__main__':
+  main()
 ```
 
 <h1><img src="./assets/gura.gif" width="30"> Activity</h1>
