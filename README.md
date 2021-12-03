@@ -50,6 +50,6 @@ class Frameworks {
 <h1><img src="./assets/gura.gif" width="30"> Activity</h1>
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=retouching&show_icons=true&hide_border=true">
-   <img width="49%" src="https://wakatime.com/share/@arch/f1541273-487a-45c5-bdd0-8eabb53f2b61.png">
-  <img width="30%" src="https://spotify-recently-played-readme.vercel.app/api?user=emam77f8njo59bukjawv1iohf">
+   <img width="50%" src="https://wakatime.com/share/@arch/f1541273-487a-45c5-bdd0-8eabb53f2b61.png">
+  <img width="49%" src="https://spotify-recently-played-readme.vercel.app/api?user=emam77f8njo59bukjawv1iohf&unique=true&width=600&count=8">
 </p>
