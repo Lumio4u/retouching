@@ -20,4 +20,10 @@ const arch = {
   <a href="mailto:sylvain.lefeuvre0@gmail.com"><img src="https://img.shields.io/badge/Email me-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </div>
 
-<!--h1><img src="./assets/saber.gif" width="30"> Languages</h1-->
+<hr>
+
+<div align="center">
+  <a href="https://open.spotify.com/playlist/6CFSf6qSaWMxdQEcao0Lou?si=36e377b7d98142da">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=emam77f8njo59bukjawv1iohf&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</div>
