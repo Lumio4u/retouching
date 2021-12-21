@@ -5,7 +5,7 @@
 const arch = {
   name: 'Sylvain',
   age: new Date().getFullYear() - 2001,
-  usage: 'Web and Software developper',
+  usage: 'Web and Software developer',
   editors: [
     'Visual Studio Code', 'IntelliJ IDEA'
   ]
