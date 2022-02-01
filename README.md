@@ -1,5 +1,5 @@
 <h1><img src="./assets/neko.gif" width="30"> Hello here !</h1>
-<img src="./assets/profile.gif" width="250" align="right">
+<img src="./assets/ezgif-4-d4eb94c25f.gif" width="250" align="right">
 
 ```js
 const arch = {
